@@ -18,4 +18,6 @@
 		public static $password = 'yourSuperSecretPassword';
 		//	API key will be retrieved automatically during runtime
 		public static $key = '';
+		//	Text message (max of 160 characters) to be sent 
+		public static $text_message = 'Type your text message here.';
 	}
